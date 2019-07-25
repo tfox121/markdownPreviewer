@@ -1,0 +1,30 @@
+{
+  "name": "markdownpreviewer",
+  "version": "1.0.0",
+  "description": "See it in action [here](https://tfox121.github.io/markdownPreviewer/)!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tfox121/markdownPreviewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tfox121/markdownPreviewer/issues"
+  },
+  "homepage": "https://github.com/tfox121/markdownPreviewer#readme",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-plugin-react": "^7.14.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "reactdom": "^2.0.0"
+  },
+  "dependencies": {
+    "marked": "^0.7.0",
+    "requirejs": "^2.3.6"
+  }
+}
