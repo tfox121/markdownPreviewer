@@ -24,7 +24,7 @@
     "reactdom": "^2.0.0"
   },
   "dependencies": {
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "requirejs": "^2.3.6"
   }
 }
